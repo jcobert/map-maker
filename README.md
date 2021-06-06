@@ -10,5 +10,5 @@ For more information on the Google Maps API, visit:
 https://developers.google.com/maps/documentation/streetview/overview
 
 ### Geoguessr
-For more information on Geoguessr and to play, vist:
+For more information on Geoguessr and to play, visit:
 https://www.geoguessr.com
